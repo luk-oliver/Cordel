@@ -31,12 +31,12 @@ header{
 }
 
 header > h1 {
-    padding-top: 40px;
+    padding-top: 50px;
   /*  text-transform: uppercase;  transforma tudo em maiusculo*/
    font-variant: small-caps; /* tem a mesma função */
    text-align: center;
    font-family: var(--fonte2);
-   font-size: 8vw;
+   font-size: 10vw;
 
 }
 
@@ -87,7 +87,7 @@ section.normal {
     background-color: rgb(109, 107, 107);
     color: white;
     background-size: cover;
-    background-position: center center;
+    background-position: right center;
     box-shadow: inset 1px 1px 13px 0px rgba(0, 0, 0, 0.521);
     background-attachment: fixed;
 
@@ -103,8 +103,6 @@ section.normal {
 
   section#img01{
     background-image: url('./imagens/background001.jpg');
-    
-    
     
   }
 
